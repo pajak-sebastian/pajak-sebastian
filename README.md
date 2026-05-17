@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sebastian
 
-Aspiring Software Engineer focused on building strong programming foundations and exploring aerospace technologies.
+Aspiring Software Engineer and Computer Science student focused on building strong programming foundations and exploring aerospace technologies.
 
 ### 🛠️ Tech Stack & Current Focus
 - **Languages & Tools:** C, Python, Git
