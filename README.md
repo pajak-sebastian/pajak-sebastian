@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Sebastian
 
-<!--
-**pajak-sebastian/pajak-sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer focused on building strong programming foundations and exploring aerospace technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Current Focus
+- **Languages & Tools:** C, Python, Git
+- **Coursework:** CS50x (Introduction to Computer Science)
+- **Domains:** UAV systems, aerospace technology, Python automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- Building solid computer science fundamentals through CS50x problem sets
+- Developing internal Python tools for sensor data parsing, validation, and engineering test automation
+
+### 📫 Connect with me
+- **LinkedIn:** [sebastian-pajak-dev](https://www.linkedin.com/in/sebastian-pajak-dev/)
+- **Email:** pajak.sebastian12@gmail.com
